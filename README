@@ -1,5 +1,11 @@
 16-step sequencer shield for Arduino using 8 triggers 
 Features:
+MIDI in/out
+Eric Archer IR control
+8 device controls
+16 channel mixer (8 in LITE version)
+LED step indicators
+Neutrik jack sticks from 5-pin connectors -http://www.neutrik.com/us/en/audio/210_381896349/NC5FXX-B_detail.aspx
 
 Functions:
 Play/Pause
